@@ -20,7 +20,7 @@ studentList = new LinkedList();
 studentList.add("Vivek Reddy");
 
 System.out.println(studentList.size());
-System.out.println("Welcome to FT12");
+System.out.println("Welcome to minfy devops");
  }
 }
 
